@@ -1,7 +1,6 @@
-#include <iostream>
-#include<string>
-
 #include "src/Neuron.hpp"
+
+#include <iostream>
 
 int main(void){
     // Sigmoid function A:
